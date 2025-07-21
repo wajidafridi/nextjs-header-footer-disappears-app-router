@@ -1,0 +1,1 @@
+# nextjs-header-footer-disappears-app-router
